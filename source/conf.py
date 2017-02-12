@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'whisper-guide'
-copyright = u'2017, Victor Farazdagi'
+copyright = u'2017, Victor Farazdagi / Status.im - A mobile Ethereum OS'
 author = u'Victor Farazdagi'
 
 # The version info for the project you're documenting, acts as replacement for
